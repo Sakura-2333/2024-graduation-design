@@ -667,6 +667,7 @@ h6 {
 .img-box {
 	overflow: hidden;
 	position: center;
+	flex-direction:column;
 }
 
 .img-box img {
